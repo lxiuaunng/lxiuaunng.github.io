@@ -12251,9 +12251,10 @@ fieldset[disabled] article.article .article-more.is-inverted:before:before {
   background: #242424;
 }
 .content blockquote {
-  background: #000;
-  border: 0.5px solid #02d7f2;
-  border-left: 50px solid #02d7f2;
+  background: #f8f8f8;
+  border-left: 5px solid #afafaf;
+  margin: 1em 10px;
+  padding: 0.5em 10px;
 }
 .footer {
   position: relative;
